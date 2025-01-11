@@ -10,8 +10,8 @@ if [ ! -x ./setup_t ]; then
 fi
 
 # run setup tool to generate makefile generator
-./setup_t -maintainer "egon.rath@gmail.com" \
-        -homepage "https://github.com/egrath" \
+./setup_t -maintainer "alvaroglez@gmail.com" \
+        -homepage "https://github.com/CitizenGlez" \
         -n "minivmac-3.7-linuxarm64" \
         -e bgc \
         -t larm \
